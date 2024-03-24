@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4OlaAIy6-FYJunD1vaUs7QT3J_5omyz2ODTlDf5AOjWhAwtirwq-HB7O7i_0UZI0T7o&usqp=CAU)
 <h1 align="center">Hi 👋, I'm KUNDURU ISHWARYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="500" scr="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="500" scr="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwarya200430&label=Profile%20views&color=0e75b6&style=flat" alt="ishwarya200430" /> </p>
