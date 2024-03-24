@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.vectorstock.com/i/preview-1x/21/83/girl-programmer-is-studying-programming-languages-vector-40422183.jpgf)
+![MasterHead]<img align="center" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-4563721">
 <h1 align="center">Hi 👋, I'm KUNDURU ISHWARYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"  width="500" src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=">
