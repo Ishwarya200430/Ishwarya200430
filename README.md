@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZB8qvhLMd6by4W4bdebvkEyMurMahccNd9g&usqp=CAU)
+![MasterHead](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
 <h1 align="center">Hi 👋, I'm KUNDURU ISHWARYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"  width="500" src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=">
