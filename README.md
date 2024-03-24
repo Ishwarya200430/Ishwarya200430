@@ -1,4 +1,4 @@
-[!MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4OlaAIy6-FYJunD1vaUs7QT3J_5omyz2ODTlDf5AOjWhAwtirwq-HB7O7i_0UZI0T7o&usqp=CAU)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4OlaAIy6-FYJunD1vaUs7QT3J_5omyz2ODTlDf5AOjWhAwtirwq-HB7O7i_0UZI0T7o&usqp=CAU)
 <h1 align="center">Hi 👋, I'm KUNDURU ISHWARYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" scr="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
